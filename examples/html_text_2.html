@@ -1,0 +1,157 @@
+---
+layout: text
+title: HTML with STIKHOI
+permalink: /html_text_2/
+---
+
+<h1>HTML Text Page: Single Column</h1>
+<h2>Part 2: STIKHOI Poetic Styling</h2>
+
+<p>This is the preferred way of serving up poetry on an Elachista-themed site. The style sheets have already incorporated a way of marking up poetry designed by <a href="https://codepen.io/denmch/pen/acEIA" target="_blank">Den McHenry</a>. For more details about installing Stikhoi in your own site or to piece together how it was installed on this, see this <a href="/2020/05/14/HTML-Tutorial-2.md" target="_blank">post</a>.<br>
+  <br>
+<i>N.B. I still need to finish the javascript install for STIKHOI and resolve the placement of numbers --correctly occuring every 5th line but needs to have its orientation to margin moved. -PRC 5/15/20</i>
+</p>
+
+<h2>Sample Text: Greek</h2>
+<h3>Pindar, <i>Olympian</i> 11</h3>
+
+<ol class="verse"><span lang ="grc">
+  <li>ἔστιν ἀνθρώποις ἀνέμων ὅτε πλείστα</li>
+  <li>χρῆσις, ἔστιν δʼ οὐρανίων ὑδάτων,</li>
+  <li>ὀμβρίων παίδων νεφέλας.</li>
+  <li>εἰ δὲ σὺν πόνῳ τις εὖ πράσσοι, μελιγάρυες ὕμνοι</li>
+  <li>ὑστέρων ἀρχὰ λόγων</li>
+  <li>τέλλεται καὶ πιστὸν ὅρκιον μεγάλαις ἀρεταῖς.</li>
+  <br>
+  <li>ἀφθόνητος δʼ αἶνος Ὀλυμπιονίκαις</li>
+  <li>οὗτος ἄγκειται. τὰ μὲν ἁμετέρα</li>
+  <li>γλῶσσα ποιμαίνειν ἐθέλει·</li>
+  <li>ἐκ θεοῦ δʼ ἀνὴρ σοφαῖς ἀνθεῖ πραπίδεσσιν ὁμοίως.</li>
+  <li>ἴσθι νῦν, Ἀρχεστράτου</li>
+  <li>παῖ, τεᾶς, Ἁγησίδαμε, πυγμαχίας ἕνεκεν</li>
+  <br>
+  <li>κόσμον ἐπὶ στεφάνῳ χρυσέας ἐλαίας</li>
+  <li>ἁδυμελῆ κελαδήσω,</li>
+  <li>Ζεφυρίων, Λοκρῶν γενεὰν ἀλέγων.</li>
+  <li>ἔνθα συγκωμάξατʼ· ἐγγυάσομαι</li>
+  <li>ὔμμιν, ὦ Μοῖσαι, φυγόξενον στρατὸν</li>
+  <li>μηδʼ ἀπείρατον καλῶν,</li>
+  <li>ἀκρόσοφον δὲ καὶ αἰχματὰν ἀφίξεσθαι. τὸ γὰρ</li>
+  <li>ἐμφυὲς οὔτʼ αἴθων ἀλώπηξ</li>
+  <li>οὔτʼ ἐρίβρομοι λέοντες διαλλάξαντο ἦθος.</li>
+   </span>
+</ol>
+<br>
+<h2>Sample Text: Latin</h2>
+<h3>Sulpicia, "On Her Birthday"[<i>Tibullus</i> 3.14]</h3>
+
+<ol class="verse couplets" start="1">
+  <li>Invīsus nātālis adest, quī rūre molestō</li>
+  <li>et sine Cērinthō tristis agendus erit.</li>
+  <li>dulcius urbe quid est? an villa sit apta puellae</li>
+  <li>atque Arrētīno frīgidus amnis agrō?</li>
+  <li>iam, nimium Messalla meī studiōse, quiescas:</li>
+  <li>nōn tempestīvae saepe, propinque, viae.</li>
+  <li>hīc animum sensūsque meōs abducta relinquō,</li>
+  <li>arbitriō quam vīs nōn sinit esse meō.</li>
+</ol>
+
+<h2>Sample Text Code</h2>
+
+{% highlight HTML %}
+  <h3>Pindar, <i>Olympian</i> 11</h3>
+
+  <ol class="verse"><span lang ="grc">
+    <li>ἔστιν ἀνθρώποις ἀνέμων ὅτε πλείστα</li>
+    <li>χρῆσις, ἔστιν δʼ οὐρανίων ὑδάτων,</li>
+    <li>ὀμβρίων παίδων νεφέλας.</li>
+    <li>εἰ δὲ σὺν πόνῳ τις εὖ πράσσοι, μελιγάρυες ὕμνοι</li>
+    <li>ὑστέρων ἀρχὰ λόγων</li>
+    <li>τέλλεται καὶ πιστὸν ὅρκιον μεγάλαις ἀρεταῖς.</li>
+    <br>
+    <li>ἀφθόνητος δʼ αἶνος Ὀλυμπιονίκαις</li>
+    <li>οὗτος ἄγκειται. τὰ μὲν ἁμετέρα</li>
+    <li>γλῶσσα ποιμαίνειν ἐθέλει·</li>
+    <li>ἐκ θεοῦ δʼ ἀνὴρ σοφαῖς ἀνθεῖ πραπίδεσσιν ὁμοίως.</li>
+    <li>ἴσθι νῦν, Ἀρχεστράτου</li>
+    <li>παῖ, τεᾶς, Ἁγησίδαμε, πυγμαχίας ἕνεκεν</li>
+    <br>
+    <li>κόσμον ἐπὶ στεφάνῳ χρυσέας ἐλαίας</li>
+    <li>ἁδυμελῆ κελαδήσω,</li>
+    <li>Ζεφυρίων, Λοκρῶν γενεὰν ἀλέγων.</li>
+    <li>ἔνθα συγκωμάξατʼ· ἐγγυάσομαι</li>
+    <li>ὔμμιν, ὦ Μοῖσαι, φυγόξενον στρατὸν</li>
+    <li>μηδʼ ἀπείρατον καλῶν,</li>
+    <li>ἀκρόσοφον δὲ καὶ αἰχματὰν ἀφίξεσθαι. τὸ γὰρ</li>
+    <li>ἐμφυὲς οὔτʼ αἴθων ἀλώπηξ</li>
+    <li>οὔτʼ ἐρίβρομοι λέοντες διαλλάξαντο ἦθος.</li>
+     </span>
+  </ol>
+  <br>
+  <h2>Sample Text: Latin</h2>
+  <h3>Sulpicia, "On Her Birthday"[<i>Tibullus</i> 3.14]</h3>
+
+  <ol class="verse couplets" start="1">
+    <li>Invīsus nātālis adest, quī rūre molestō</li>
+    <li>et sine Cērinthō tristis agendus erit.</li>
+    <li>dulcius urbe quid est? an villa sit apta puellae</li>
+    <li>atque Arrētīno frīgidus amnis agrō?</li>
+    <li>iam, nimium Messalla meī studiōse, quiescas:</li>
+    <li>nōn tempestīvae saepe, propinque, viae.</li>
+    <li>hīc animum sensūsque meōs abducta relinquō,</li>
+    <li>arbitriō quam vīs nōn sinit esse meō.</li>
+  </ol>
+  {% endhighlight %}
+
+  <h2>HTML Cheat Sheet</h2>
+
+<table class="table table-striped table-dark">
+  <tr>
+    <th>HTML tag</th>
+    <th>Function</th>
+  </tr>
+  <tr>
+    <td>&lt;h2>&lt;/h2></td>
+    <td>Header with number indicates level from highest [h1] to lowest [h4]</td>
+  </tr>
+  <tr>
+    <td>&lt;ol>&lt;/ol></td>
+    <td>Ordered List</td>
+  </tr>
+  <tr>
+    <td>&lt;li>&lt;/li></td>
+    <td>List Item: Marks the individual lines in the poem.</td>
+  </tr>
+  <tr>
+    <td>class="verse"</td>
+    <td>Designates the way to style this ordered list</td>
+  </tr>
+  <tr>
+    <td>&lt;span>&lt;/span></td>
+    <td>Span: Section of text within other content. Here a way of introducing and delimiting class attribute</td>
+  </tr>
+  <tr>
+    <td>class="tab"</td>
+    <td>References tab style in the CSS to add tab to the span</td>
+  </tr>
+  <tr>
+    <td>lang="grc"</td>
+    <td>References language style in CSS. Here "grc" stands for Greek and sets appropriate polytonic font</td>
+  </tr>
+  <tr>
+    <td>&lt;br></td>
+    <td>Break: forces a new line</td>
+  </tr>
+  <tr>
+    <td>&lt;i>&lt;/i></td>
+    <td>Italics</td>
+  </tr>
+  <tr>
+    <td>class="verse couplets" start="1"</td>
+    <td>Designates the style for the ordered list as verse and couplets (producing indentation on the pentameter).</td>
+  </tr>
+  <tr>
+    <td>start="1"</td>
+    <td>Starts the ordered list on verse 1--An important designation when designating which line to indent as the HTML/CSS obviously are not scanning the poetry for you.</td>
+  </tr>
+</table>
