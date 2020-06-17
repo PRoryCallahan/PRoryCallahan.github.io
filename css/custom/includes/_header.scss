@@ -1,7 +1,7 @@
 .navbar{
   box-shadow: 1px 1px 2px $primary;
   opacity: 0.8;
-  background: $white;
+  background: $dark;
 
   .nav-item{
     font-size: 1.2rem;
@@ -10,9 +10,13 @@
 }
 
 .nav-link {
-  color: $info !important;
+  color: $white !important;
 
   &:hover {
-    color: $primary !important;
+    color: $info !important;
   }
 }
+
+:nav-title 	{
+   font-family: 'Quintessential', $headings-font-family;
+   }

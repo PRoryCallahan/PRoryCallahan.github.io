@@ -1,9 +1,9 @@
 # Site settings
-title: "The Well-Read Catholic"
-email: pcallahan@fordham.edu
+title: "P. Rory Callahan"
+email: 
 author: Patrick Callahan
 description: Personal Portfolio & Blog of Patrick Callahan
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://patrickrcallahan.com" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
 

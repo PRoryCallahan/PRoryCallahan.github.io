@@ -1,8 +1,7 @@
 <!-- NAV -->
-<nav class="navbar navbar-expand-md navbar-light py-4">
-  <div class="container">
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark py-2">
     <a href="{{ site.baseurl }}/" class="navbar-brand">
-      <h3 class="d-inline align-middle pl-3 text-primary">The Well-Read Catholic</h3>
+      <h3 class="d-inline align-middle pl-3 text-white">Patrick R. Callahan</h3>
     </a>
     <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarNav">
       <span class="navbar-toggler-icon"></span>
@@ -14,12 +13,15 @@
       {{ item.name }}
     </a>
   {% endfor %}-->
-      <ul class="navbar-nav ml-auto">
+      <ul class="navbar-nav ml-auto text-white">
         <li class="nav-item">
           <a href="{{ site.baseurl }}/library/" class="nav-link">Library</a>
         </li>
+        <!--<li class="nav-item">
+          <a href="#" class="nav-link">Pindar Opera Viewer</a>
+        </li>-->
         <li class="nav-item">
-          <a href="{{ site.baseurl }}/archive/" class="nav-link">Archive</a>
+          <a href="#" class="nav-link" target="blank">Publications</a>
         </li>
         <li class="nav-item">
           <a href="https://anchor.fm/wellreadcatholic/" class="nav-link" target="blank">Podcast</a>
@@ -27,7 +29,9 @@
         <li class="nav-item">
           <a href="{{ site.baseurl }}/archive/" class="nav-link">Archive</a>
         </li>
+        <li class="nav-item">
+          <a href="{{ site.baseurl }}/about/" class="nav-link">About</a>
+        </li>
       </ul>
     </div>
-  </div>
 </nav>
