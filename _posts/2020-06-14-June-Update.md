@@ -1,6 +1,7 @@
 ---
 layout: post
 title: June Update
+date: 2020-06-14 14:00:00
 author: Patrick Callahan
 description: A summary from the relative silence over the past month...
 ---
