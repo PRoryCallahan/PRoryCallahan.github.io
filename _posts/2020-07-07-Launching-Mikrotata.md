@@ -13,4 +13,4 @@ At heart of the matter is the vast divide that stands between Digital Classics a
 
 As departments shrink, there are fewer resources––in faculty and class time––to train students in the new tools and resources available to them. And at least in my experience, I see training confined to those departments who happen to have those faculty already trained in Digital Classics. Just as there is an initiative in the UK for "Classics for All", I would hope in the future we see a creative approach to advocate "Digital Classics for All".
 
-Mikrotata at least is one small gesture in creating online tools for seasoned Classicists but neophyte coders into Digital Classicists.
+Mikrotata at least is one small gesture in creating online tools for seasoned Classicists but neophyte coders who wish to become Digital Classicists.
