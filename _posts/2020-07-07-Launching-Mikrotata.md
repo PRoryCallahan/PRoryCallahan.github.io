@@ -5,7 +5,7 @@ data: 2020-07-07 16:20:00
 author: Patrick R. Callahan
 ---
 
-I was spinning my wheels on _the big project_ so I took a minute this afternoon to wrap up edits on [Mikrotata](https://github.com/PRoryCallahan/Mikrotata), my Classics-oriented take on minimal Jekyll theme.
+I was spinning my wheels on _the big project_ so I took a minute this afternoon to wrap up edits on [Mikrotata](https://github.com/PRoryCallahan/Mikrotata), my Classics-oriented take on a minimal Jekyll theme.
 
 To my knowledge there is no Jekyll theme currently deployed with this kind of Classics and other language support without a whole lot of other bells and whistles that make it unwieldy or aesthetically displeasing. Maybe that is because there is no audience for it, but having tried to transition from a traditional training in Classics to a more digital-oriented approach to Classics I think I at least would have found something like this useful.
 

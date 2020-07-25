@@ -4,11 +4,6 @@
     padding-top: 10px;
   }
 
-  h1,
-  .h1 {
-    font-family: "CinzelBold", $headings-font-family;
-  }
-
   img {
     display: block;
     margin-left: auto;
@@ -83,4 +78,18 @@ h5 {
 
 .text-primary-dark {
   color: $primary-dark;
+}
+
+.bg-black {
+  background-color: #000000 !important;
+}
+
+a.bg-black:hover, a.bg-black:focus,
+button.bg-black:hover,
+button.bg-black:focus {
+  background-color: black !important;
+}
+
+.text-white-70 {
+  color: rgba(255, 255, 255, 0.7) !important;
 }
