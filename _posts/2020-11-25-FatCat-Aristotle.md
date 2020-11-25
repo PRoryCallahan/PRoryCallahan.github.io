@@ -6,7 +6,7 @@ author: Patrick R. Callahan
 ---
 I recently came across a comment that Aristotle was a "working-class" man, and since we know no Classicist can avoid a "well, actually" moment, and, more importantly, the answer is intriguing, I wanted to set out here to answer the question: Just how rich was Aristotle?
 
-![School of Athens](/img/posts/2020-11-25-Aristotle/Sanzio_01_Plato_Aristotle.jpg)
+![School of Athens](/img/posts/2020-11-25-Aristotle/550px-Sanzio_01_Plato_Aristotle.jpg)
 
 There are a lot of false modern analogies that might logically lead someone to the conclusion that Aristotle was a working-class man. His father, Nicomachus, was a practicing physician. While that is certainly no stone-cutter like Socrates, we might imagine his father as a middle-class physician. And Aristotle himself got his hands dirty tutoring a group of teenagers in his 40s.
 
