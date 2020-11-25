@@ -8,13 +8,13 @@ I recently came across a comment that Aristotle was a "working-class" man, and s
 
 ![School of Athens](/img/posts/2020-11-25-Aristotle/550px-Sanzio_01_Plato_Aristotle.jpg)
 
-There are a lot of false modern analogies that might logically lead someone to the conclusion that Aristotle was a working-class man. His father, Nicomachus, was a practicing physician. While that is certainly no stone-cutter like Socrates, we might imagine his father as a middle-class physician. And Aristotle himself got his hands dirty tutoring a group of teenagers in his 40s.
+There are a lot of false modern analogies that might logically lead someone to the conclusion that Aristotle was a working-class man. His father, Nicomachus, was a practicing physician. While that is certainly no stone-cutter like Socrates, we might imagine his father as a middle-class physician. And Aristotle himself got his hands dirty tutoring a group of teenagers in his mid-40s.
 
-But the job is less important than the connection when it comes to both Aristotle and his father. Nicomachus was no G making house calls on a quaint Greek island, but court physician to Philip II of Macedon. And as Diogenes Laertius says (5.1.1), Nicomachus held the rank of φίλος or "friend" to Amyntas, the king of Macedon. To those familiar with Macedonian governing structures, "friend" was high rank in court. And so we find references in papyri to Ptolemy's "friends" measuring land, levying taxes, etc.
+But the job is less important than the connection when it comes to both Aristotle and his father. Nicomachus was no GP making house calls on a quaint Greek island, but court physician to the king of Macedon. And as Diogenes Laertius says (5.1.1), Nicomachus held the rank of φίλος or "friend" to Amyntas, the king of Macedon. To those familiar with Macedonian governing structures, "friend" was high rank in court. And so we find references in papyri to Ptolemy's "friends" measuring land, levying taxes, etc.
 
 Aristotle, while orphaned as a teen, had family estates in both Stagira (father's family) and Euboea (mother's family). He certainly had the wherewithal to remain in Athens hanging about the Academy for over two decades. (To invite another false analogy: Was Aristotle a rich brat who could afford perpetual grad school?). And what about our assumption that his job of tutoring middle school boys? Does it not say something more about our own sad hierarchy of importance attached to the age we find ourselves teaching? Moreover, those boys were Alexander, heir to the Macedonian throne, and a cohort of Macedonian nobility who would become kings themselves after Alexander's early demise.
 
-Attempts to put wealth in today's dollars are often idle, and always ephemeral--try calculating Crassus' wealth in 2020 dollars based on 1920s British calculations from popular histories.
+Attempts to put wealth in today's dollars are often idle, and always ephemeral. Try calculating Crassus' wealth in 2020 dollars based on 1920s British calculations from popular histories.
 
 Still, cataloging what is listed in his will, recorded in Diogenes Laertius, should certainly impress upon us the fact that Aristotle was no Plumber Joe:
 
@@ -50,6 +50,8 @@ Other provisions:
 3. Dedication of his mother's statue at Nemea, vel. sim.
 4. Burial of his wife, Pythias, beside him
 5. Erection of life-sized statues to Zeus and Athena in Stagira.
+
+Even this will does not make clear all the property and material wealth as it hints at cash reserves to readily furnish houses, etc. And to those of concerned with the issue of slavery and Aristotle, a very 2020 consideration, it is curious that so much of his concern in his will is the disposition of his slaves. For those seeking the source...
 
 [Diogenes Laertius 5.11-16](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0258%3Abook%3D5%3Achapter%3D1):
 
