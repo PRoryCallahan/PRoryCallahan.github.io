@@ -1,8 +1,9 @@
 ---
 layout: post
 title: How Rich was Aristotle?
-data: 2020-07-07 11:20:00
+data: 2020-11-25 11:20:00
 author: Patrick R. Callahan
+image: https://patrickrcallahan.com/img/posts/2020-11-25-Aristotle/367px-Sanzio_01_Plato_Aristotle.jpg
 ---
 I recently came across a comment that Aristotle was a "working-class" man, and since we know no Classicist can avoid a "well, actually" moment, and, more importantly, the answer is intriguing, I wanted to set out here to answer the question: Just how rich was Aristotle?
 
