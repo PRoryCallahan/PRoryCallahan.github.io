@@ -50,6 +50,23 @@
   <!-- This property is for the article title, not site title. -->
   <meta name="twitter:title" content="{{page.title}}" />
 
+{% if page.image %}
+    <meta property="og:image" content="{{page.image}}" />
+    <meta name="twitter:image" content="{{page.image}}" />
+  {% else %}
+    <meta property="og:image" content="" />
+    <meta name="twitter:image" content="" />
+  {% endif %}
+
+  {% else %}
+  <!-- OG data for homepage -->
+  <meta property="og:image" content="" />
+  <meta property="og:type" content="" />
+  <meta name="twitter:card" content="" />
+  <meta name="twitter:title" content="{{site.title}}" />
+  <meta name="twitter:image" content="" />
+
+{% endif %}
 
   <link rel="stylesheet" href="/css/main.css">
   <link href="https://fonts.googleapis.com/css?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700|Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900|Cinzel|Quintessential|GFS+Neohellenic:ital&display=swap" rel="stylesheet">
