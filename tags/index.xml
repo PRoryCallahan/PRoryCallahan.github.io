@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Patrick R. Callahan</title>
+    <link>http://patrickrcallahan.com/tags/</link>
+    <description>Recent content in Tags on Patrick R. Callahan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Mar 2021 12:11:04 -0500</lastBuildDate><atom:link href="http://patrickrcallahan.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo</title>
+      <link>http://patrickrcallahan.com/tags/hugo/</link>
+      <pubDate>Thu, 18 Mar 2021 12:11:04 -0500</pubDate>
+      
+      <guid>http://patrickrcallahan.com/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jekyll</title>
+      <link>http://patrickrcallahan.com/tags/jekyll/</link>
+      <pubDate>Thu, 18 Mar 2021 12:11:04 -0500</pubDate>
+      
+      <guid>http://patrickrcallahan.com/tags/jekyll/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fasting</title>
+      <link>http://patrickrcallahan.com/tags/fasting/</link>
+      <pubDate>Wed, 17 Feb 2021 06:08:13 -0600</pubDate>
+      
+      <guid>http://patrickrcallahan.com/tags/fasting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lent</title>
+      <link>http://patrickrcallahan.com/tags/lent/</link>
+      <pubDate>Wed, 17 Feb 2021 06:08:13 -0600</pubDate>
+      
+      <guid>http://patrickrcallahan.com/tags/lent/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

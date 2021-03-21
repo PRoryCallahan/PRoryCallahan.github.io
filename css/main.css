@@ -1,0 +1,39 @@
+.meta .date {
+  margin-right: 19px;
+  width: 75px;
+  text-align: center;
+}
+
+.meta .date .day {
+  line-height: 0.45em;
+  font-size: 3em;
+  display: block;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.meta .date .rest {
+  display: block;
+  font-size: 0.80em;
+}
+
+.homelist {
+  list-style: none;
+}
+
+.homelist ul li p {
+  display: inline;
+}
+
+.homelist .draft-label {
+  color: #E00;
+  text-decoration: underline;
+  padding: 2px 10px;
+  margin-left: 2px;
+  font-size: 0.8rem;
+}
+
+.homelist .title a {
+  color: #0d6efd;
+  text-decoration: none;
+}
