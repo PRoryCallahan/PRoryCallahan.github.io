@@ -3,47 +3,129 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://patrickrcallahan.com/posts/first-post/</loc>
-    <lastmod>2021-03-18T12:11:04-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://patrickrcallahan.com/tags/hugo/</loc>
-    <lastmod>2021-03-18T12:11:04-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://patrickrcallahan.com/tags/jekyll/</loc>
-    <lastmod>2021-03-18T12:11:04-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://patrickrcallahan.com/</loc>
-    <lastmod>2021-03-18T12:11:04-05:00</lastmod>
+    <lastmod>2022-01-06T06:08:13-06:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://patrickrcallahan.com/posts/</loc>
-    <lastmod>2021-03-18T12:11:04-05:00</lastmod>
+    <loc>http://patrickrcallahan.com/persaecula/</loc>
+    <lastmod>2022-01-06T06:08:13-06:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://patrickrcallahan.com/tags/</loc>
-    <lastmod>2021-03-18T12:11:04-05:00</lastmod>
+    <loc>http://patrickrcallahan.com/authors/</loc>
+    <lastmod>2022-01-06T06:08:13-06:00</lastmod>
   </url>
   
   <url>
     <loc>http://patrickrcallahan.com/categories/</loc>
-    <lastmod>2021-02-17T06:08:13-06:00</lastmod>
+    <lastmod>2022-01-06T06:08:13-06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://patrickrcallahan.com/commonplace/</loc>
+    <loc>http://patrickrcallahan.com/authors/christina-rossetti/</loc>
+    <lastmod>2022-01-06T06:08:13-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://patrickrcallahan.com/tags/epiphany/</loc>
+    <lastmod>2022-01-06T06:08:13-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://patrickrcallahan.com/categories/epiphany/</loc>
+    <lastmod>2022-01-06T06:08:13-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://patrickrcallahan.com/genres/epistle/</loc>
+    <lastmod>2022-01-06T06:08:13-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://patrickrcallahan.com/genres/</loc>
+    <lastmod>2022-01-06T06:08:13-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://patrickrcallahan.com/authors/henry-wadsworth-longfellow/</loc>
+    <lastmod>2022-01-06T06:08:13-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://patrickrcallahan.com/languages/</loc>
+    <lastmod>2022-01-06T06:08:13-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://patrickrcallahan.com/languages/latin/</loc>
+    <lastmod>2022-01-06T06:08:13-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://patrickrcallahan.com/scribes/patrick-callahan/</loc>
+    <lastmod>2022-01-06T06:08:13-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://patrickrcallahan.com/persaecula/epiphanypoems/</loc>
+    <lastmod>2022-01-06T06:08:13-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://patrickrcallahan.com/tags/poetry/</loc>
+    <lastmod>2022-01-06T06:08:13-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://patrickrcallahan.com/scribes/</loc>
+    <lastmod>2022-01-06T06:08:13-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://patrickrcallahan.com/authors/t.s.-eliot/</loc>
+    <lastmod>2022-01-06T06:08:13-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://patrickrcallahan.com/tags/</loc>
+    <lastmod>2022-01-06T06:08:13-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://patrickrcallahan.com/authors/w.b.-yeats/</loc>
+    <lastmod>2022-01-06T06:08:13-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://patrickrcallahan.com/blog/aristarchus/</loc>
+    <lastmod>2021-06-09T06:08:13-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://patrickrcallahan.com/blog/</loc>
+    <lastmod>2021-06-09T06:08:13-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://patrickrcallahan.com/tags/hugo/</loc>
+    <lastmod>2021-06-09T06:08:13-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://patrickrcallahan.com/courses/</loc>
     <lastmod>2021-02-17T06:08:13-06:00</lastmod>
   </url>
   
   <url>
     <loc>http://patrickrcallahan.com/tags/fasting/</loc>
+    <lastmod>2021-02-17T06:08:13-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://patrickrcallahan.com/authors/jerome/</loc>
     <lastmod>2021-02-17T06:08:13-06:00</lastmod>
   </url>
   
@@ -58,12 +140,42 @@
   </url>
   
   <url>
-    <loc>http://patrickrcallahan.com/commonplace/jeromefasting/</loc>
+    <loc>http://patrickrcallahan.com/projects/</loc>
     <lastmod>2021-02-17T06:08:13-06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://patrickrcallahan.com/about/</loc>
+    <loc>http://patrickrcallahan.com/publications/</loc>
+    <lastmod>2021-02-17T06:08:13-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://patrickrcallahan.com/persaecula/jeromefasting/</loc>
+    <lastmod>2021-02-17T06:08:13-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://patrickrcallahan.com/talks/</loc>
+    <lastmod>2021-02-17T06:08:13-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://patrickrcallahan.com/persaecula/gk_anthology809/</loc>
+    <lastmod>2021-02-16T11:56:08-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://patrickrcallahan.com/blog/test/</loc>
+    <lastmod>2021-02-14T18:34:21-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://patrickrcallahan.com/blog/site-agenda/</loc>
+    <lastmod>2021-02-14T17:22:02-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://patrickrcallahan.com/locations/</loc>
   </url>
   
 </urlset>

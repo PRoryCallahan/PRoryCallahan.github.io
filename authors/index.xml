@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on PRC</title>
+    <link>http://patrickrcallahan.com/authors/</link>
+    <description>Recent content in Authors on PRC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Jan 2022 06:08:13 -0600</lastBuildDate><atom:link href="http://patrickrcallahan.com/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Christina Rossetti</title>
+      <link>http://patrickrcallahan.com/authors/christina-rossetti/</link>
+      <pubDate>Thu, 06 Jan 2022 06:08:13 -0600</pubDate>
+      
+      <guid>http://patrickrcallahan.com/authors/christina-rossetti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Henry Wadsworth Longfellow</title>
+      <link>http://patrickrcallahan.com/authors/henry-wadsworth-longfellow/</link>
+      <pubDate>Thu, 06 Jan 2022 06:08:13 -0600</pubDate>
+      
+      <guid>http://patrickrcallahan.com/authors/henry-wadsworth-longfellow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T.S. Eliot</title>
+      <link>http://patrickrcallahan.com/authors/t.s.-eliot/</link>
+      <pubDate>Thu, 06 Jan 2022 06:08:13 -0600</pubDate>
+      
+      <guid>http://patrickrcallahan.com/authors/t.s.-eliot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>W.B. Yeats</title>
+      <link>http://patrickrcallahan.com/authors/w.b.-yeats/</link>
+      <pubDate>Thu, 06 Jan 2022 06:08:13 -0600</pubDate>
+      
+      <guid>http://patrickrcallahan.com/authors/w.b.-yeats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jerome</title>
+      <link>http://patrickrcallahan.com/authors/jerome/</link>
+      <pubDate>Wed, 17 Feb 2021 06:08:13 -0600</pubDate>
+      
+      <guid>http://patrickrcallahan.com/authors/jerome/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

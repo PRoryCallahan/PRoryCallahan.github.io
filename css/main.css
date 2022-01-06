@@ -34,6 +34,90 @@
 }
 
 .homelist .title a {
-  color: #0d6efd;
+  color: #d00000;
   text-decoration: none;
+}
+
+@font-face {
+  font-display: swap;
+  font-family: 'Fira Code';
+  font-style:  normal;
+  font-weight: 400;
+  src: url("../fonts/FiraCode-Regular.woff") format("woff");
+  font-display: swap;
+}
+
+@font-face {
+  font-display: swap;
+  font-family: 'Fira Code';
+  font-style:  normal;
+  font-weight: 800;
+  src: url("../fonts/FiraCode-Bold.woff") format("woff");
+  font-display: swap;
+}
+
+body {
+  background-color: #f5f1e7;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #d00000;
+}
+
+.text-prima {
+  color: #d00000;
+}
+
+.bg-prima {
+  background-color: #d00000;
+}
+
+.btn-prima {
+  background: #d00000;
+  color: #f5f1e7;
+}
+
+.btn-prima:hover {
+  background: #d00000;
+  color: #c7c8ca;
+}
+
+.btn-outline-prima {
+  border-color: #d00000;
+  color: #d00000;
+}
+
+.btn-outline-prima:hover {
+  background: #d00000;
+  color: #f5f1e7;
+}
+
+.text-secunda {
+  color: #f5f1e7;
+}
+
+.text-tertia {
+  color: #c7c8ca;
+}
+
+.bg-tertia {
+  background-color: #c7c8ca;
+}
+
+.btn-outline-tertia {
+  border-color: #c7c8ca;
+  color: #c7c8ca;
+}
+
+.btn-outline-tertia:hover {
+  background: #c7c8ca;
+  color: #f5f1e7;
+}
+
+a {
+  color: #d00000;
+}
+
+a:hover {
+  color: #001226;
 }

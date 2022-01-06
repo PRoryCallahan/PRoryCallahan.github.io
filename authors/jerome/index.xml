@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jerome on PRC</title>
+    <link>http://patrickrcallahan.com/authors/jerome/</link>
+    <description>Recent content in Jerome on PRC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Feb 2021 06:08:13 -0600</lastBuildDate><atom:link href="http://patrickrcallahan.com/authors/jerome/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>St. Jerome on Fasting</title>
+      <link>http://patrickrcallahan.com/persaecula/jeromefasting/</link>
+      <pubDate>Wed, 17 Feb 2021 06:08:13 -0600</pubDate>
+      
+      <guid>http://patrickrcallahan.com/persaecula/jeromefasting/</guid>
+      <description>Tantum tibi ieiuniorum inpone, quantum ferre potest. Sint pura, casta, simplicia, moderata, non superstitiosa ieiunia. Quid prodest oleo non vesci et molestias quasdam difficultatesque ciborum quaerere? Caricae, piper, nuces, palmarum fructus, simila, mel, pistatia, tota hortorum cultura vexatur, ut cibario non vescamur pane. Audio praeterea quosdam contra rerum hominumque naturam aquam non bibere nec vesci pane, sed sorbitiunculas delicatas et contrita holera betarumque sucum non calice sorbere, sed conca. Pro pudor, non erubescimus istiusmodi ineptiis nec taedet superstitionis!</description>
+    </item>
+    
+  </channel>
+</rss>
