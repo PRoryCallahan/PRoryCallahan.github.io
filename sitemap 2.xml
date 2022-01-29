@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://patrickrcallahan.com/posts/first-post/</loc>
+    <lastmod>2021-03-18T12:11:04-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://patrickrcallahan.com/tags/hugo/</loc>
+    <lastmod>2021-03-18T12:11:04-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://patrickrcallahan.com/tags/jekyll/</loc>
+    <lastmod>2021-03-18T12:11:04-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://patrickrcallahan.com/</loc>
+    <lastmod>2021-03-18T12:11:04-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://patrickrcallahan.com/posts/</loc>
+    <lastmod>2021-03-18T12:11:04-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://patrickrcallahan.com/tags/</loc>
+    <lastmod>2021-03-18T12:11:04-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://patrickrcallahan.com/categories/</loc>
+    <lastmod>2021-02-17T06:08:13-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://patrickrcallahan.com/commonplace/</loc>
+    <lastmod>2021-02-17T06:08:13-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://patrickrcallahan.com/tags/fasting/</loc>
+    <lastmod>2021-02-17T06:08:13-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://patrickrcallahan.com/tags/lent/</loc>
+    <lastmod>2021-02-17T06:08:13-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://patrickrcallahan.com/categories/lent/</loc>
+    <lastmod>2021-02-17T06:08:13-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://patrickrcallahan.com/commonplace/jeromefasting/</loc>
+    <lastmod>2021-02-17T06:08:13-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://patrickrcallahan.com/about/</loc>
+  </url>
+  
+</urlset>
